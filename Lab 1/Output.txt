@@ -1,0 +1,5 @@
+Hello World!!
+This is the input text file and we are just doing some practise 
+regarding the do-while loop
+The results generated would be interesting.
+Bye for now guys!!
